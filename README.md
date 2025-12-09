@@ -2,10 +2,6 @@
 
 ## 데모 이미지
 ![홈](./assets/app_home.png)
-![지도](./assets/app_map.png)
-![신고조회](./assets/app_report.png)
-![카메라](./assets/app_camera.png)
-![대시보드](./assets/dashboard_main.png)
 
 ## 아키텍처
 ![시스템 아키텍처](./assets./architecture.png)
