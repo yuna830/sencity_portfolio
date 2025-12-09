@@ -4,7 +4,7 @@
 ![홈](./assets/app_home.png)
 
 ## 아키텍처
-![시스템 아키텍처](./assets./architecture.png)
+![시스템 아키텍처](./assets/architecture.png)
 
 ## 레포지토리 구조
 - 🔗 [Flutter 앱 화면](https://github.com/yuna830/flutter)
