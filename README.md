@@ -1,11 +1,14 @@
 # sencity - AI 기반 야생동물 출현 신고 알림 및 신고 서비스
 
 ## 데모 이미지
-![앱](./assets/app_main.png)
+![홈](./assets/app_home.png)
+![지도](./assets/app_map.png)
+![신고조회](./assets/app_report.png)
+![카메라](./assets/app_camera.png)
 ![대시보드](./assets/dashboard_main.png)
 
 ## 아키텍처
-![시스템 아키텍처](./architecture.png)
+![시스템 아키텍처](./assets./architecture.png)
 
 ## 레포지토리 구조
 - 🔗 [Flutter 앱 화면](https://github.com/yuna830/flutter)
